@@ -1,4 +1,9 @@
-# Write a program that uses a loop to compute and print the sum of all even numbers between 2 and 100 (inclusive).
+"""
+Summation
+Lukas Maynard
+CS222-1
+Assignment 1 Part 2
+"""
 sum = 0
 
 for i in range(2, 101):

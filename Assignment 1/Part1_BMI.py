@@ -1,9 +1,15 @@
-# BMI = (weight * 703) / (height)2
+"""
+BMI 
+Lukas Maynard
+CS222-1
+Assignment 1 Part 1
+"""
 
-height = input("Enter your height:")
-weight = input("Enter your weight:")
+height = int(input("Enter your height in inches:"))
+weight = int(input("Enter your weight in pounds:"))
 
-bmi = (weight * 703) / (height) * 2
+bmi = (weight * 703) / (height)**2
+print("Your body mass index:", bmi)
 
 if bmi < 18.5:
     print("You are considerd underweight.")

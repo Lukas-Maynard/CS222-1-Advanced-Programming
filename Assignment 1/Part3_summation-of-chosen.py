@@ -1,5 +1,9 @@
-# Write a program that uses a loop to compute and print the sum of all odd numbers between a and b (inclusive), where a and b are entered by the user.
-
+"""
+Summation of chosen range
+Lukas Maynard
+CS222-1
+Assignment 1 Part 3
+"""
 sum = 0
 start = int(input("Enter starting number:"))
 end = int(input("Enter ending number:"))
