@@ -1,0 +1,6 @@
+[submodule "Assignment 3"]
+	path = Assignment 3
+	url = https://github.com/BSU-CS-222/assignment-2-Lukas-Maynard.git
+[submodule "Assignment 2"]
+	path = Assignment 2
+	url = https://github.com/BSU-CS-222/assignment-2-Lukas-Maynard.git
