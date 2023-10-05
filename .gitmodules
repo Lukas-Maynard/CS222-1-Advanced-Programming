@@ -7,3 +7,6 @@
 [submodule "assignment-4-Lukas-Maynard"]
 	path = assignment-4-Lukas-Maynard
 	url = https://github.com/BSU-CS-222/assignment-4-Lukas-Maynard.git
+[submodule "project-1-cool-programmers"]
+	path = project-1-cool-programmers
+	url = https://github.com/BSU-CS-222/project-1-cool-programmers.git
