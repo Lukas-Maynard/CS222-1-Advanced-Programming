@@ -13,3 +13,6 @@
 [submodule "assignment-5-Lukas-Maynard"]
 	path = assignment-5-Lukas-Maynard
 	url = https://github.com/BSU-CS-222/assignment-5-Lukas-Maynard.git
+[submodule "assignment-6-Lukas-Maynard"]
+	path = assignment-6-Lukas-Maynard
+	url = https://github.com/BSU-CS-222/assignment-6-Lukas-Maynard.git
