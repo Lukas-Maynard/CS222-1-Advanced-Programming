@@ -19,3 +19,6 @@
 [submodule "assignment-7-Lukas-Maynard"]
 	path = assignment-7-Lukas-Maynard
 	url = https://github.com/BSU-CS-222/assignment-7-Lukas-Maynard.git
+[submodule "project-2-cs-222-project-2-group-8"]
+	path = project-2-cs-222-project-2-group-8
+	url = https://github.com/BSU-CS-222/project-2-cs-222-project-2-group-8.git
